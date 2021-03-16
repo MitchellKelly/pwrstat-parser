@@ -1,2 +1,3 @@
-# pwrstat-snmp
-Use pwrstat cli program to get UPS status and expose the info via snmp
+# pwrstat-parser
+
+pwrstat-parser uses the CyperPower "pwrstat" cli program to get the status of CyberPower UPSs and parses the status into a programatically usable format
